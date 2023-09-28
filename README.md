@@ -11,8 +11,8 @@
 - cooking delicious food for myself 😋🍽️
 - watching quiz shows and attempting to solve various types of problems 🤔
 
-### 📫 You can reach me by...
-<a href = "https://www.linkedin.com/in/leejs7"><img src = "LinkedIn_Logo1.png" width = "100" height = "100"></a>
-<a href = "mailto: leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "100" height = "100"></a>
+### 📫 You can reach me through...
+<a href = "https://www.linkedin.com/in/leejs7"><img src = "LinkedIn_Logo1.png" width = "50" height = "50"></a>
+<a href = "mailto: leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "50" height = "50"></a>
 
 ### 🤪 Thanks for reading!
