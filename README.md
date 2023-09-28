@@ -13,6 +13,6 @@
 
 ### 📫 You can reach me by...
 <a href = "https://www.linkedin.com/in/leejs7"><img src = "LinkedIn_Logo1.png" width = "100" height = "100"></a>
-<a href = "leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "100" height = "100"></a>
+<a href = "mailto: leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "100" height = "100"></a>
 
 ### 🤪 Thanks for reading!
