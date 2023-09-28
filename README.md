@@ -12,7 +12,7 @@
 - watching quiz shows and attempting to solve various types of problems 🤔
 
 ### 📫 You can reach me by...
-<a href = "https://www.linkedin.com/in/leejs7"><img src = "https://github.com/JSLee-24/JSLee-24/assets/131495939/53edf51f-9275-49a5-9fb3-31d9bdf546a5" width = "100" height = "100"></a>
-<a href = "leej18@myumanitoba.ca"><img src = "https://github.com/JSLee-24/JSLee-24/assets/131495939/6221fa42-5999-40cc-8079-75bfbc86564c" width = "100" height = "100"></a>
+<a href = "https://www.linkedin.com/in/leejs7"><img src = "LinkedIn_Logo1.png" width = "100" height = "100"></a>
+<a href = "leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "100" height = "100"></a>
 
 ### 🤪 Thanks for reading!
