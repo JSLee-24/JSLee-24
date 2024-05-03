@@ -15,4 +15,4 @@
 <a href = "https://www.linkedin.com/in/leejs7"><img src = "LinkedIn_Logo1.png" width = "50" height = "50"></a>
 <a href = "mailto: leej18@myumanitoba.ca"><img src = "Email_Logo1.png" width = "50" height = "50"></a>
 
-### 🤪 Thanks for reading!
+### Thanks for reading!
