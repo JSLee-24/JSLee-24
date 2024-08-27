@@ -2,8 +2,8 @@
 (He/Him)
 
 ### ⭐ I am...
-- currently a third year Computer Science student with a minor in Statistics at the University of Manitoba.
-- interested in web, game, and software developments, specifically in the arts of front-end developments.
+- currently a fourth year Computer Science student with a minor in Statistics at the University of Manitoba.
+- interested in web, game, and software developments, specifically in the arts of back-end development.
 - always opened to learn new skills and ideas!
 
 ### 👊 I like...
