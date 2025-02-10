@@ -7,7 +7,7 @@
 - always opened to learn new skills and ideas!
 
 ### 👊 I like...
-- exercising by regularly going to the gym, and recreationally playing sports such as badminton, volleyball, basketball, and soccer to stay active 💪
+- exercising by regularly going to the gym, and recreationally playing sports such as bowling, volleyball, basketball, and badminton to stay active 💪
 - cooking delicious food for myself 😋🍽️
 - watching quiz shows and attempting to solve various types of problems 🤔
 
